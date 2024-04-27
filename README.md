@@ -33,4 +33,4 @@ To analyze sales data of different types of coffee (Arabica, Robusta, Excelsa, L
 
 --- 
 
-Does this capture the essence of your project?
+
